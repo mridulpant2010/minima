@@ -1,4 +1,12 @@
-When in doubt or uncertainty refer to this section, it is a collection of one-liners:
+---
+layout: post
+title: "Mridul Musings"
+categories: Philosophy, Life
+author:
+- Mridul
+---
+
+
 - `energy infectious and smile contagious`
 - Make efforts to become effortless.
 - Unknowingly making mistakes are learning but knowingly making mistake is an act of foolishness.
