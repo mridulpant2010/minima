@@ -34,7 +34,6 @@ author:
 - There should not be more than a 2-day gap in practicing the habits.
 - Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.
 - Smart people save their asses.
-
 - Insanity is doing the same thing again and again, and expecting different results.
 - Develop an art form.
 	- Tech is my art form, I am chasing it.

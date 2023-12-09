@@ -1,14 +1,14 @@
 title: Mridul Musings
 author:
-  name: GitHub User
+  name: Mridul Pant
   email: mridulpant2010@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+# description: >
+#   Write an awesome description for your new site here. You can edit this line
+#   in _config.yml. It will appear in your document head meta (for Google search
+#   results) and in your feed.xml site description.
 
 # Build settings
 
@@ -20,9 +20,9 @@ theme: minima
 # add a line comment on "theme: minima" above.
 #remote_theme: jekyll/minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
 
 # Theme-specific settings
 
@@ -67,7 +67,7 @@ minima:
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-  #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
+    - { platform: x,              user_url: "https://twitter.com/Mridulpant2" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
 
