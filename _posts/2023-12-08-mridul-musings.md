@@ -34,6 +34,7 @@ author:
 - There should not be more than a 2-day gap in practicing the habits.
 - Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.
 - Smart people save their asses.
+  - Smart people figure out things faster.
 - Insanity is doing the same thing again and again, and expecting different results.
 - Develop an art form.
 	- Tech is my art form, I am chasing it.
@@ -54,3 +55,4 @@ author:
 	- Don't hurt anyone at any cost, it shouldn't be your motive or intent. Always be sorry for your wrong deeds.
 - My parent's sacrifices above anything else, matter a lot to me.
 - Weak Concentration leads to a bad Tech Learning experience.
+- Rejection and failure are modifiable statistics. The more you face both, the more likely you’ll learn how to minimise them (and reduce your fear of them).
